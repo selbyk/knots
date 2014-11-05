@@ -1,0 +1,3 @@
+20*((1+0.4*sin(t*2*pi*ar))*cos(pi/4+t*2*pi*rr))
+20*((1+0.4*sin(t*2*pi*ar))*sin(pi/4+t*2*pi*rr))
+20*0.6*cos(t*2*pi*ar)
